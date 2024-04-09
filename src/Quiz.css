@@ -1,0 +1,17 @@
+.answer-buttons button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.question-div {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: left;
+  margin-left: 30%;
+}
+
+.score-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

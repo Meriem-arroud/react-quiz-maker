@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-quiz-maker/static/css/main.b99b8ab3.css",
+    "main.js": "/react-quiz-maker/static/js/main.4d848b66.js",
+    "static/js/453.0a13e86d.chunk.js": "/react-quiz-maker/static/js/453.0a13e86d.chunk.js",
+    "index.html": "/react-quiz-maker/index.html",
+    "main.b99b8ab3.css.map": "/react-quiz-maker/static/css/main.b99b8ab3.css.map",
+    "main.4d848b66.js.map": "/react-quiz-maker/static/js/main.4d848b66.js.map",
+    "453.0a13e86d.chunk.js.map": "/react-quiz-maker/static/js/453.0a13e86d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99b8ab3.css",
+    "static/js/main.4d848b66.js"
+  ]
+}
